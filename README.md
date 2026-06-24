@@ -1,2 +1,2 @@
-# begginer.py
+# this is calculator app.
 mini projects
