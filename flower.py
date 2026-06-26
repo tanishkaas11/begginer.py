@@ -1,3 +1,4 @@
+#first install turtle..
 import turtle
 
 def setup_screen():
